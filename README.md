@@ -11,10 +11,10 @@
 
 ### Interest
 
-- Multithread Prograaming (Asynchorous, Pararell)
+- Asynchrous programming (Multithread, Pararell, Async-await and more)
 - Statistics, Measure, Coverage.
-- Want to more than before Improvement all things.
-- Like to Tech Writing, Writing, Record, Tech Discussion.
+- Want to more than before improvement all things.
+- Like to tech writing, writing, record, tech discussion.
 
 <div align=center>
 
