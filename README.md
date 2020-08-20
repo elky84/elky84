@@ -23,3 +23,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:elky84@gmail.com)
 
 </div>
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=elky84)](https://github.com/elky84)
