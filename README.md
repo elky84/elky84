@@ -8,13 +8,14 @@
 
 - Game server programmer in korea game industry.
 - I have made some many online game, mobile game, web.
+- I have expirience also to game client, web frontend, web backend, platform development.
 
 ### Interest
 
-- Multithread Prograaming (Asynchorous, Pararell)
+- Asynchrous programming (Multithread, Pararell, Async-await and more)
 - Statistics, Measure, Coverage.
-- Want to more than before Improvement all things.
-- Like to Tech Writing, Writing, Record, Tech Discussion.
+- Want to more than before improvement all things.
+- Like to tech writing, writing, record, tech discussion.
 
 <div align=center>
 
@@ -23,3 +24,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:elky84@gmail.com)
 
 </div>
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=elky84)](https://github.com/elky84)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elky84)](https://github.com/elky84/github-readme-stats)
