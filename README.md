@@ -8,6 +8,7 @@
 
 - Game server programmer in korea game industry.
 - I have made some many online game, mobile game, web.
+- I have expirience also to game client, web frontend, web backend, platform development.
 
 ### Interest
 
