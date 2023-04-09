@@ -1,3 +1,7 @@
+<img src="https://github-readme-stats.vercel.app/api?username=elky84&show_icons=true&count_private=true&theme=dark" alt="Ruman's github stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elky84&layout=compact&theme=dark"/>
+
 <h1>🛠 Tech Stack 🛠</h1>
 <h2>Languages</h2>
 
