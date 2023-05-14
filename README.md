@@ -50,6 +50,8 @@
 </h3>
 </div>
 
+![trophy](https://github-profile-trophy.vercel.app/?username=elky84&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=onedark)
+
 <a href="https://elky84.github.io/"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=github&link=https://elky84.github.io/"/></a>
 <a href="https://www.linkedin.com/in/elky-96299bb1/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elky-96299bb1/"/></a>
 <a href="mailto:elky84@gmail.com"><img src="https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:elky84@gmail.com"/></a>
