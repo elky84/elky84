@@ -1,6 +1,6 @@
-<img src="https://github-readme-stats.vercel.app/api?username=elky84&show_icons=true&count_private=true&theme=dark" alt="Ruman's github stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=elky84&show_icons=true&count_private=true" alt="Elky84's github stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elky84&layout=compact&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elky84&theme=dark"/>
 
 <h1>🛠 Tech Stack 🛠</h1>
 <h2>Languages</h2>
