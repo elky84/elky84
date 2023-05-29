@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/ASP.NET-092E20?style=for-the-badge&logo=.NET&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Next.js-430098?style=for-the-badge&logo=vue.js&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=black"/>&nbsp;
 
 <h2>Tools</h2>
