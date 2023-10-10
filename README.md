@@ -37,18 +37,14 @@
 
 <h1>🪄 Introduce 🪄</h1>
 <h2> Software Backend Engineeer </h2>
-<h3>
-  <p>I have been doing platform development and web service development backend development.</p>
-  <p>Developed many web service, platform, online games, mobile games.</p>
-</h3>
+<p>I have been doing platform development and web service development backend development.</p>
+<p>Developed many web service, platform, online games, mobile games.</p>
 
 <h2> Interest </h2>
-<h3>
-  <p>Asynchrous programming (Multithread, Pararell, Async-await and more)</p>
-  <p>Statistics, Measure, Coverage.</p>
-  <p>Want to more than before improvement all things.</p>
-  <p>Like to tech writing, writing, record, tech discussion.</p>
-</h3>
+<p>Asynchrous programming (Multithread, Pararell, Async-await and more)</p>
+<p>Statistics, Measure, Coverage.</p>
+<p>Want to more than before improvement all things.</p>
+<p>Like to tech writing, writing, record, tech discussion.</p>
 </div>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=elky84&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=onedark)
