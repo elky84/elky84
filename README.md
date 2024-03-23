@@ -50,7 +50,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=elky84&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=onedark)
 
 <a href="https://elky84.github.io/"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=github&link=https://elky84.github.io/"/></a>
-<a href="https://www.linkedin.com/in/elky-96299bb1/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elky-96299bb1/"/></a>
+<a href="https://www.linkedin.com/in/성훈-김-4089722ba/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/성훈-김-4089722ba/"/></a>
 <a href="mailto:elky84@gmail.com"><img src="https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:elky84@gmail.com"/></a>
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Felky84&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
