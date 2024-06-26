@@ -49,7 +49,6 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=elky84&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=onedark)
 
-<a href="https://elky84.github.io/"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=github&link=https://elky84.github.io/"/></a>
 <img src="https://github-readme-stats.vercel.app/api?username=elky84&show_icons=true&count_private=true" alt="Elky84's github stats"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elky84&theme=dark"/>
